@@ -145,7 +145,7 @@ If you find SAVer useful in your research, please cite:
   title     = {SAVer: Structure-Aware Validation of Standard Fetal Head Planes via Clinically Grounded Anatomical Completeness},
   author    = {Anusha A and Vasanth Ambrose and Padmini Ramesh and Shyam Ayyasamy and Keerthi Ram and Suresh Seshadri and Manojkumar Lakshmanan and Mohanasankar Sivaprakasam},
   booktitle = {Medical Image Computing and Computer Assisted Intervention (MICCAI)},
-  year      = {2025}
+  year      = {2026}
 }
 ```
 
